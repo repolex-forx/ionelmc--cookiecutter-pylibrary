@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/cookiecutter-pylibrary/commit/24da906dfb9f250b31ed2ee595d6f05d07b357db",
       "git:hexsha": "24da906dfb9f250b31ed2ee595d6f05d07b357db",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/cookiecutter-pylibrary/commit/bebc3c1153d2bd43d04bd8e1dd3747913b39c496",
