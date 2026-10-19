@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "cookiecutter-pylibrary",
+  "versions": [
+    {
+      "commit": "24da906dfb9f250b31ed2ee595d6f05d07b357db",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:38:03.817796+00:00"
+    }
+  ]
+}
